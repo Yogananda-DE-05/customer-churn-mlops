@@ -21,3 +21,7 @@ Random Forest Classifier
 ## Feature Importance
 
 ![Feature Importance](feature_importance.png)
+
+## Confusion Matrix
+
+![Confusion Matrix](confusion_matrix.png)
