@@ -17,3 +17,7 @@ Random Forest Classifier
 - Customer Churn Prediction
 - FastAPI REST API
 - Streamlit Dashboard
+
+## Feature Importance
+
+![Feature Importance](feature_importance.png)
